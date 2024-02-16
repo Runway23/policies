@@ -92,11 +92,13 @@ You agree that, to the extents of the applicable law, Runway23 is not liable to 
 
 ## Contact
 
-We make these contact methods available for any doubts, questions and legal procedures you may incur.
+We make the following contact methods available for any doubts, questions and legal procedures you may incur.
 
->Aeropista SAS (Runway23)
->Palma Nte. 413, Piso 2
->Col. Centro, 06010
->Ciudad de Mexico, Mexico
->legal@r23.xyz
->+52 5523923558
+```
+Aeropista SAS (Runway23)
+Palma Nte. 413, Piso 2
+Col. Centro, 06010
+Ciudad de Mexico, Mexico
+legal@r23.xyz
++52 5523923558
+```
