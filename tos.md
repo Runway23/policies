@@ -1,8 +1,8 @@
 # Terms of Service
-Last Updated: 15th of February, 2024
+Last Updated: 16th of February, 2024
 Effective: 1st of March, 2024
 
-Hey! These are the Runway23 Terms of Service, when using any service provided by Runway23, you agree to the following Terms of Service ("ToS"). This document outlines our legal obligations to each other. They apply to all Runway23 services.
+Hey! These are the Runway23 Terms of Service, when using any service provided by Runway23, you agree to the following terms. This document outlines our legal obligations to each other. They apply to all Runway23 services.
 
 We may update these terms at any time, but we will always attempt to notify you 30 business days before they come into effect via notifications systems put in place by us (e.g., mailing lists, service notifications, etc). When doing so we will refresh the date at the top of this document and include a date in which they become effective.
 
@@ -19,7 +19,7 @@ When we use the terms "you" or "your", we are referring to you, the person or or
 We also provide a [Privacy Policy](privacy.md) that applies to your use of our Services, and is incorporated into these terms.
 
 We and our business partners may also offer individual services with their own policies and terms that you must agree to in order to use them, separate to these terms. We list the following terms and policies for our individual services:
-- [Insurgent Terms of Use](insurgent/tou.md)
+- [Insurgent Terms of Use](insurgentes/tou.md)
 
 ## Applicable Law
 
@@ -28,6 +28,8 @@ By using our Services, you agree that the corresponding federal, state, and/or m
 ## Warranty
 
 WITHIN THE MARGINS SET BY THE APPLICABLE LAW, NEITHER RUNWAY23, ITS AFFILIATES AND/OR ANY OF THEIR RESPECTIVE SUPPLIERS MAKE NO WARRANTIES, EITHER EXPRESSED OR IMPLIED, ABOUT THE SERVICES OFFERED. THE SERVICES ARE PROVIDED ON AN "AS IS" AND "AS AVAILABLE" BASIS.
+
+RUNWAY23 HAS NO LEGAL OBLIGATION TO PROVIDE YOU WITH ITS SERVICES, AND/OR KEEP ITS SERVICES CONSISTENT. 
 
 ## Eligibility
 
@@ -57,7 +59,7 @@ When possible, we will attempt to notify you of changes done to our Services wit
 
 ### Migration (if applicable)
  
-During the discontinuation process of a Service, we will provide you with a copy of your personal data used by that Service for you to export and import to other services operated by us or a third party. 
+During the discontinuation process of a Service, we will provide you with a copy of your personal data used by that Service for you to migrate to other services operated by us or by a third party. 
 
 ## Prohibitions
 
@@ -68,15 +70,15 @@ In order for us to safely operate our Services, we have set in place a set of pr
 - Commit acts described as illegal under Mexican Federal Law, and the laws of your jurisdiction
 - Distribute content described as illegal under Mexican Federal Law, and the laws of your jurisdiction
 
-In case you breach these prohibitions and/or those put in place by service-specific policies, your account may be subject to restriction or cancellation to our Services.
+In case you breach these prohibitions and/or those put in place by service-specific policies, you may be subject to restriction or cancellation to access our Services.
 
 ## Cancellation
 
-Cancellation involves the discontinuation/termination of access to our Services, and the termination of agreements between you and Runway23. 
+Cancellation involves the discontinuation/termination of your access to our Services, and the termination of agreements between you and Runway23. 
 
 Once your account is cancelled, you will no longer have access to it and your data will be destroyed within the specified periods provided in our [Privacy Policy](privacy.md). Cancellation is of immediate effect most of the time and it is non-reversible.
 
-Depending on the reason for cancellation, you may or may not be able to use our Services again, please contact us for more information.
+Depending on the reason for cancellation, you may or may not be able to use our Services again, please refer to your cancellation notice or contact us at support@r23.xyz for more information.
 
 ### Your right to cancel
 
@@ -87,10 +89,10 @@ For account deletion and thereby agreement termination, options depend on the Se
 ### Our right to cancel
 Subject to applicable law, we reserve the right to restrict, or terminate access, to some, or to all of our Services with or without prior notice at our discretion for the following reasons:
 - You fail to comply with these terms, our policies, and/or any additional terms celebrated between you and Runway23
-- We believe that continuing you to access our Service may cause harm to us, other users, or third parties
+- We believe that continuing to provide you access to our Service may cause harm to us, other users, or third parties
 - We are required to do so to comply a legal requirement or court order
 
-We will often try to resolve issues that may merit termination directly with you through the predetermined communication channels set with each other. If we are not able to get in contact with you in a timely manner, resolve these issues or we believe that it is not possible to do so, we will inform you of your termination 7 days before it occurs.
+We often try to resolve and discuss issues that may merit termination directly with you before cancelling your account. However, if we are not able to get in contact with you in a timely manner, resolve these issues or we believe that it is not possible to do so, we will inform you of your termination 7 days before it occurs.
 
 ## Liability
 
